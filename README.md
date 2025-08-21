@@ -35,9 +35,9 @@ Bot Discord multifungsi yang dirancang untuk menangani sistem **cooldown**, **es
 > `@User, cooldown kamu sudah habis! Ayo gacha lagi!`
 
 ### 🧾 Estimasi Produksi
-Estimasi Normal: 8 jam 48 menit (Selesai: 21/8/2025, 17.50)
-Dengan Gamepass: 5 jam 30 menit (Selesai: 21/8/2025, 14.32)
-Harga/M: Rp1.000 | Total: Rp20.000
+```Estimasi Normal: 8 jam 48 menit (Selesai: 21/8/2025, 17.50)```
+```Dengan Gamepass: 5 jam 30 menit (Selesai: 21/8/2025, 14.32)```
+```Harga/M: Rp1.000 | Total: Rp20.000```
 
 ### 💰 Transaksi QR
 Jumlah Order: 5
@@ -56,13 +56,13 @@ Harga Total: Rp5.000
 ---
 
 ## 📁 Struktur Direktori (Contoh)
-├── commands/
-├── features/
-├── utils/
-├── index.js
-├── .env
-├── .gitignore
-├── package.json
+```├── commands/```
+```├── features/```
+```├── utils/```
+```├── index.js```
+```├── .env```
+```├── .gitignore```
+```├── package.json```
 
 ---
 
